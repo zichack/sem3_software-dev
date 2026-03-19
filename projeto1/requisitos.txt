@@ -1,0 +1,16 @@
+produto1 = bola;
+produto2 = faca;
+produto3 = cerveja;
+
+1 ===== ver produtos
+
+2 ===== escolher produtos (scanner);
+
+3 ===== finalizar compra (variável que identifique a finalização);
+
+system out print  ===== menu para escolha
+
+entrada = nextInt ===== para escolher o produto;
+
+produtos podem ser identificados por vetor? sim
+
