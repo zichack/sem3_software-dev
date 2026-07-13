@@ -1,0 +1,15 @@
+1. Encapsulamento em Sistemas Reais
+
+Uma equipe está desenvolvendo um sistema bancário onde a classe Conta
+possui atributos como saldo e limite. Um desenvolvedor decidiu tornar esses
+atributos públicos para facilitar o acesso em outras classes.
+
+Pergunta:
+
+Explique por que essa decisão não é adequada em um sistema real.
+Apresente:
+
+• Os riscos envolvidos
+• Como o encapsulamento resolve esse problema
+• Um exemplo de método que deveria ser criado para manipular o saldo
+corretamente
