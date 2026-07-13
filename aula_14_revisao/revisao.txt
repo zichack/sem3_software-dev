@@ -1,0 +1,3 @@
+-- entender a estrutura ideal do programa a ser desenvolvido
+
+classe -> objeto -> construtor ->
